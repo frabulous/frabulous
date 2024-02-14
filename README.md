@@ -2,14 +2,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=CC0088&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Francesco+Bultrini!;" />
 </h1>
-<h3 align=center> A curious medley of developer and designer from Italy </h3>
+<h3 align=center> an odd medley of developer and designer </h3>
 <br/>
 
 <div align=center>
   
-🔭 I’m currently working on **a metaphysical game about math surfaces**
+🔭 I’m currently working on **a surreal VR game**
 
-🌱 I’m currently learning **OpenXR, Unreal Engine 5**
+🌱 I’m currently learning **VR dev, Unreal Engine 5**
 
 </div>
 
@@ -19,8 +19,8 @@
 <br/>
 <div align=center>
     <img src="https://skillicons.dev/icons?i=github,c,cs,java,kotlin,git" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,vscode,eclipse" /><br>
-    <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,pr,ai" />
+    <img src="https://skillicons.dev/icons?i=vscode,unity,unreal,blender" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,pr,ai" />
 </div>
 
 <br/>
