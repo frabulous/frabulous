@@ -9,7 +9,7 @@
   
 🔭 I’m currently working on **a surreal VR game**
 
-🌱 I’m currently learning **VR dev, Unreal Engine 5**
+🌱 I’m currently learning **C++**
 
 </div>
 
