@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=CC0088&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Francesco+Bultrini!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=CC0088&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 <h3 align=center> an odd medley of developer and designer </h3>
 <br/>
@@ -9,7 +9,7 @@
   
 🔭 I’m currently working on **a surreal VR game**
 
-🌱 I’m currently learning **C++**
+🌱 I’m currently deepening **Unreal and C++** and **Blender Grease Pencil**
 
 </div>
 
