@@ -48,7 +48,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 -->
-  
+<!--  
 <h2>My GitHub Stats</h2>
 
 [![frabulous' GitHub stats](https://github-readme-stats.vercel.app/api?username=frabulous&show_icons=true&theme=radical&hide=contribs)](https://github.com/frabulous/github-readme-stats)
@@ -57,7 +57,7 @@
 [![](https://visitcount.itsvg.in/api?id=frabulous&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
-
+-->
 <!--
 **frabulous/frabulous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
