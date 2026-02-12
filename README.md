@@ -2,14 +2,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=CC0088&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;It's+Frabulous+here!;(I'm+actually+Francesco+Bultrini)" />
 </h1>
+<!--  
 <h3 align=center> an odd medley of developer and designer </h3>
+-->
 <br/>
 
 <div align=center>
-  
+<!--  
 🔭 I’m currently working on **a surreal VR game**
-
-🌱 I’m currently deepening **Unreal and C++** and **Blender Grease Pencil**
+-->
+🌱 I’m currently deepening **Unreal/C++** and **Blender Grease Pencil**
 
 </div>
 
