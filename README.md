@@ -11,7 +11,7 @@
 <!--  
 🔭 I’m currently working on **a surreal VR game**
 -->
-🌱 I’m currently deepening **Unreal/C++** and **Blender Grease Pencil**
+🌱 I’m currently deepening *Unreal/C++* and *Blender Grease Pencil*
 
 </div>
 
